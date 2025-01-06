@@ -4,6 +4,7 @@ title: WebSSH Brain
 
 # WebSSH Brain
 > Generative AI that powers your work about command line.
+> <br /><small>Powered by <img src="https://raw.githubusercontent.com/dRAGon-Okinawa/dRAGon/refs/heads/main/static/img/dragon_okinawa_icon.png" alt="dRAGon Okinawa" title="dRAGon Okinawa" style="width:16px; vertical-align:middle"/> [dRAGon](https://github.com/dRAGon-Okinawa/dRAGon)</small>
 
 ??? danger "Privacy, Security, Responsibility"
     * WebSSH Brain prioritizes Privacy and Security. All the data you input into WebSSH Brain is NOT retained on WebSSH servers.
@@ -42,10 +43,5 @@ Ever wanted to know how to do something in a terminal? But you don't know how to
 WebSSH Brain will try to generate the best how-to for you.
 
 This feature is under development and will be available soon.
-
-## Pricing
-Running WebSSH Brain is costly as it requires a lot of online computing resources.
-During the beta period, WebSSH Brain is free to use with fair use policy.
-After that, it would be available as a paid subscription or at least only available for WebSSH PRO users.
 
 [^1]: Requires at least iOS 17 or macOS 14
